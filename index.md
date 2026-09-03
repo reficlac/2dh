@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 『 *... the real troubles in your life are apt to be things that never crossed your worried mind, the kind that blindsides you at 4 p.m. on some idle tuesday ...* 』
 
 *one of my hopeless tuesdays*
